@@ -84,6 +84,7 @@ def make_prediction(user_input, model, pipeline):
         return None
     
 def main():
+
     # Load the trained model and preprocessing pipeline
     model, pipeline = load_model_pipeline()
 
@@ -91,14 +92,17 @@ def main():
     if model is None or pipeline is None:
         return
 
-    st.set_page_config(page_title="Loan Eligibility App", layout="wide")
-    #image = Image.open('lending_club_logo.png')
-    #st.image(image, use_column_width=True, caption='Lending Club')
-
+    st.set_page_config(page_title="CreditRisk Predictor", layout="wide")
+    
     # Get user input
     user_input = get_user_input()
 
-    st.markdown('# 🏦 Loan Eligibility App')
+    st.markdown('# 🏦 CreditRisk Predictor')
+
+    # App description
+    st.markdown("## App Description")
+    st.markdown('The CreditRisk Predictor App is a web application that predicts the risk of loan default based on user input. Users provide their personal and financial details, and the app uses a pre-trained machine learning model to calculate the risk score. The user can set a risk threshold to determine the risk classification as "High Risk" or "Low Risk." The app helps users make informed decisions by assessing the probability of loan default and providing a quick risk assessment for loan applications.')
+        
     st.markdown('## 👤 User Input Parameters:')
     st.table(user_input)  # use table for cleaner formatting
 
