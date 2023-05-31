@@ -12,6 +12,23 @@
 
 ---
 
+# Table of Contents
+
+- [💼🔮 Lending Club Loan Default Prediction](#%F0%9F%92%BC%F0%9F%94%AE-lending-club-loan-default-prediction)
+  - [Authors](#authors)
+- [🎪 Introduction](#%F0%9F%8E%AA-introduction)
+- [🌐 Understanding of Business](#%F0%9F%8C%90-understanding-of-business)
+- [⚙️ Business Objectives](#%E2%9A%99%EF%B8%8F-business-objectives)
+- [Data source](#data-source)
+- [Implemented Techniques](#implemented-techniques)
+- [Tech Stack](#tech-stack)
+- [Results](#results)
+- [Limitations and Potential Improvements](#limitations-and-potential-improvements)
+- [Deployed on Microsoft Azure](#deployed-on-microsoft-azure)
+- [Run Locally](#run-locally)
+- [License](#license)
+
+
 # 💼🔮 Lending Club Loan Default Prediction
 
 
@@ -74,6 +91,9 @@ By realizing these objectives, we can aid Lending Club in fostering a balanced f
 - Imbalanced-Learn
 - XGBoost
 - Streamlit
+
+#### App container
+- Docker
 
 #### Code Editor:
 - VS Code
