@@ -130,9 +130,11 @@ These potential improvements aim to refine the model's predictive power, increas
 
 ---
 
-## Deployed on streamlit
+## Deployed on Microsoft Azure
 
-[CreditRisk Predictor  App](https://aka5hbg-lending-club-app-7jgmhk.streamlit.app/)
+The Streamlit application has been containerized using Docker for deployment. Docker offers the advantages of portability and easy dependency management. The Dockerized application has been deployed on Microsoft Azure.
+
+here is the link [CreditRisk Predictor  App](https://genz.azurewebsites.net/)
 
 ## Run Locally
 Initialize git
@@ -187,7 +189,7 @@ If you are having issue with streamlit, please follow [this tutorial on how to s
 
 MIT License
 
-Copyright (c) 2022 Stern Semasuka
+Copyright (c) 2023 Akash bg
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
