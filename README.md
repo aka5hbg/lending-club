@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <!-- Update the URLs below with your Streamlit app link and Colab link if available -->
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aka5hbg-lending-club-app-7jgmhk.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aka5hbg-lending-club-app-ye9jk9.streamlit.app/)
 <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Your_Colab_Link_Here) -->
 
 ---
@@ -156,7 +156,7 @@ The Streamlit application has been containerized using Docker for deployment. Do
 
 
 here is the link(azure) [CreditRisk Predictor  App](https://genz.azurewebsites.net/)
-here is the link(streamlit) [CreditRisk Predictor  App](https://aka5hbg-lending-club-app-7jgmhk.streamlit.app/)
+here is the link(streamlit) [CreditRisk Predictor  App](https://aka5hbg-lending-club-app-ye9jk9.streamlit.app/)
 
 ## Run Locally
 Initialize git
