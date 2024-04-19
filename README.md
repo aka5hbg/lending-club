@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <!-- Update the URLs below with your Streamlit app link and Colab link if available -->
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/aka5hbg/lending-club/main/app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aka5hbg-lending-club-app-7jgmhk.streamlit.app/)
 <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Your_Colab_Link_Here) -->
 
 ---
@@ -152,9 +152,11 @@ These potential improvements aim to refine the model's predictive power, increas
 
 ## Deployed on Microsoft Azure
 
-The Streamlit application has been containerized using Docker for deployment. Docker offers the advantages of portability and easy dependency management. The Dockerized application has been deployed on Microsoft Azure.
+The Streamlit application has been containerized using Docker for deployment. Docker offers the advantages of portability and easy dependency management. The Dockerized application has been deployed on Microsoft Azure. (but if once the trial preiod of Azure expires below link might not , use the second link which deployed on  native hosting
 
-here is the link [CreditRisk Predictor  App](https://genz.azurewebsites.net/)
+
+here is the link(azure) [CreditRisk Predictor  App](https://genz.azurewebsites.net/)
+here is the link(streamlit) [CreditRisk Predictor  App](https://aka5hbg-lending-club-app-7jgmhk.streamlit.app/)
 
 ## Run Locally
 Initialize git
